@@ -1,0 +1,16 @@
+{
+  "name": "Lista de Compras",
+  "short_name": "Compras",
+  "description": "Lista de compras com cálculo automático de valores e totais por categoria",
+  "start_url": "/lista-compras/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f855a",
+  "icons": [
+    {
+      "src": "https://jeferson2jm-pixel.github.io/lista-compras/",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
