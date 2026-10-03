@@ -1,27 +1,24 @@
 {
   "name": "Lista de Compras",
   "short_name": "Compras",
-  "description": "Lista de compras com cálculo automático de valores e totais por categoria",
+  "description": "Lista de compras com cálculo automático de valores, quantidades e total por categoria",
   "start_url": "/lista-compras/",
+  "scope": "/lista-compras/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2f855a",
+  "orientation": "portrait",
+  "lang": "pt-BR",
   "icons": [
     {
       "src": "https://jeferson2jm-pixel.github.io/lista-compras/",
-      "sizes": "any",
-      "type": "image/svg+xml"
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jeferson2jm-pixel.github.io/lista-compras/",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
-}
-{
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "jeferson2jm-pixel.github",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "jeferson2jm-pixel.github",
-  "start_url": "/",
-  "theme_color": "#ffffff"
 }
