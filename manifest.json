@@ -11,12 +11,12 @@
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "https://jeferson2jm-pixel.github.io/lista-compras/",
+      "src": "https://jeferson2jm-pixel.github.io/lista-compras/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://jeferson2jm-pixel.github.io/lista-compras/",
+      "src": "https://jeferson2jm-pixel.github.io/lista-compras/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
